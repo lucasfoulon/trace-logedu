@@ -1,0 +1,15 @@
+{
+  "name": "piano-keyboard",
+  "version": "1.0.0",
+  "title": "Piano Keyboard",
+  "homepage": "",
+  "author": {
+    "name": "La musique par les plantes",
+    "email": "",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "~0.5.2"
+  }
+}

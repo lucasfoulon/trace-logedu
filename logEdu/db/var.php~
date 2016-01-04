@@ -1,0 +1,6 @@
+<?php
+$GLOBALS['SERV']=;
+$GLOBALS['USER']="root";
+$GLOBALS['PASS']="prenium74";
+$GLOBALS['BASE']="logEdu";
+?>
