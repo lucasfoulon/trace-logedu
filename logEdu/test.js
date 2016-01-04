@@ -1,10 +1,10 @@
-UrlKtbs = "dsi-liris-silex.univ-lyon1.fr/m2ia/ktbs/lucasbase/";
+UrlKtbs = "http://dsi-liris-silex.univ-lyon1.fr/m2ia/ktbs/lucasbase/";
 
 function testRequeteKtbs()
 {
     
       var trace = {
-    "@id": "testRequete/",
+    "@id": "testRequete2/",
     "@type": "StoredTrace",
     "hasModel": "http://liris.cnrs.fr/silex/2011/simple-trace-model/",
     "origin": "1970-01-01T00:00:00Z"
