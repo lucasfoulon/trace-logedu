@@ -124,11 +124,7 @@ $level = getLevelByUser($user);
         }
     });
 
-
     testRequeteKtbs();
-
-
-
 
 </script>
 </body>

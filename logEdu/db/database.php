@@ -12,7 +12,7 @@ function loadClass($class) {
     if (substr(realpath('.'), 0, 8) == "C:\\wamp\\") { //Windows
         require 'C:\\wamp\\www\\logEdu\\class\\'.$class .'.class.php';
     } else if (substr(realpath('.'), 0, 8) == "/var/www") { //Ubuntu 
-        require '/var/www/html/logEdu/class/'.$class .'.class.php';
+        require '/var/www/html/trace-logedu/logEdu/class/'.$class .'.class.php';
     } else { //lucas.foulon.fr
       require '/mnt/101/sdb/8/5/lucas.foulon/logEdu/class/'.$class .'.class.php';
     }
